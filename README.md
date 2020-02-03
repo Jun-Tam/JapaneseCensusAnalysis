@@ -18,15 +18,8 @@ GeopandasとPlotly Expressによる、分析結果のインタラクティブマ
 <br>
 関東地域の結果。<br>
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/関東.png)
-
-Class1: 持ち家ありの家族世帯<br>
-Class2: 若い夫婦世帯が住む郊外<br>
-Class3: 平均都市<br>
-Class4: 大都会<br>
-Class5: ベッドタウン<br>
-Class6: 過疎化地域<br>
-N/A: 田舎(データ不足のため、分析対象外)<br>
-
+<br>
+<br>
 近畿地域の結果。<br>
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/近畿.png)
 
@@ -37,7 +30,6 @@ Class4: 大都会<br>
 Class5: ベッドタウン<br>
 Class6: 過疎化地域<br>
 N/A: 田舎(データ不足のため、分析対象外)<br>
-
 <br>
 <br>
 分類の粒度が粗く、それ程面白い結果が得られなかったため、次回は都市部に対象を絞り詳細な分類を試みたい。
