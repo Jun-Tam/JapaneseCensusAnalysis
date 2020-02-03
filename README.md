@@ -1,17 +1,7 @@
 ## 国勢調査等の政府統計データを用いたデータ分析と視覚化
-今回はデータが揃った約600の市区町村を分類した。以下は関東地域の結果。<br>
-
-![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/関東.png)
-
-Class1: 持ち家ありの家族世帯<br>
-Class2: 若い夫婦世帯が住む郊外<br>
-Class3: 平均都市<br>
-Class4: 大都会<br>
-Class5: ベッドタウン<br>
-Class6: 過疎化地域<br>
-N/A: 田舎(データ不足のため、分析対象外)<br>
-
-
+政府統計データを用いて以下のワークフローで約600の市区町村の分類を実施した。
+<br>
+<br>
 ### ワークフロー
 Part 1: 食材の買い出し。<br>
 e-Statsからデータの取得。(参考 https://note.nkmk.me/python-e-stat-api-download/)<br>
@@ -24,6 +14,30 @@ Part 3: 調理。<br>
 
 Part 4: 盛り付け。<br>
 GeopandasとPlotly Expressによる、分析結果のインタラクティブマップ作成。<br>
+<br>
+<br>
+関東地域の結果。<br>
+![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/関東.png)
+
+Class1: 持ち家ありの家族世帯<br>
+Class2: 若い夫婦世帯が住む郊外<br>
+Class3: 平均都市<br>
+Class4: 大都会<br>
+Class5: ベッドタウン<br>
+Class6: 過疎化地域<br>
+N/A: 田舎(データ不足のため、分析対象外)<br>
+
+近畿地域の結果。<br>
+![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/近畿.png)
+
+Class1: 持ち家ありの家族世帯<br>
+Class2: 若い夫婦世帯が住む郊外<br>
+Class3: 平均都市<br>
+Class4: 大都会<br>
+Class5: ベッドタウン<br>
+Class6: 過疎化地域<br>
+N/A: 田舎(データ不足のため、分析対象外)<br>
+
 <br>
 <br>
 分類の粒度が粗く、それ程面白い結果が得られなかったため、次回は都市部に対象を絞り詳細な分類を試みたい。
