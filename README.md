@@ -16,6 +16,6 @@ Part 3: 調理と盛り付け。<br>
 GeopandasとPlotly Expressによる、分析結果のインタラクティブマップ作成。<br>
 <br>
 <br>
-東京都・神奈川県の結果。<br>
+東京都・神奈川県・埼玉県の結果。<br>
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/東京埼玉神奈川.png)
 <br>
