@@ -17,5 +17,5 @@ GeopandasとPlotly Expressによる、分析結果のインタラクティブマ
 <br>
 <br>
 東京都・神奈川県の結果。<br>
-![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/東京神奈川.png)
+![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/東京埼玉神奈川.png)
 <br>
