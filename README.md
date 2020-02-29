@@ -13,11 +13,11 @@ Part 2: 下ごしらえ。<br>
 
 Part 3: 調理と盛り付け。<br>
 データの標準化。UMAPによる次元削減後、K-Meansによるクラスタリング。分類クラスの命名。<br>
-GeopandasとPlotly Expressによる、分析結果のインタラクティブマップ作成。<br>
 <br>
 ### UMapによるクラスター分類
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/umap.png)
 <br>
+GeopandasとPlotly Expressによる、分析結果のインタラクティブマップ作成。<br>
 
 <br>
 ### 東京都・神奈川県・埼玉県の結果。
