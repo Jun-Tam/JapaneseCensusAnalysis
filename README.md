@@ -16,10 +16,10 @@ Part 3: 調理と盛り付け。<br>
 GeopandasとPlotly Expressによる、分析結果のインタラクティブマップ作成。<br>
 <br>
 UMapによるクラスター分類
-![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/umap.png)
 <br>
+![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/umap.png)
 
 <br>
 東京都・神奈川県・埼玉県の結果。
-![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/demo_plotly_express.gif)
 <br>
+![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/demo_plotly_express.gif)
