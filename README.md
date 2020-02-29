@@ -20,6 +20,6 @@ UMapによるクラスター分類
 <br>
 
 <br>
-東京都・神奈川県・埼玉県の結果。<br>
+東京都・神奈川県・埼玉県の結果。
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/demo_plotly_express.gif)
 <br>
