@@ -18,6 +18,6 @@ GeopandasとPlotly Expressによる、分析結果のインタラクティブマ
 ### UMapによるクラスター分類
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/umap.png)<br>
 
-### 東京都・神奈川県・埼玉県の結果。
+### 東京都・神奈川県・埼玉県の結果
 ![demo](https://github.com/Jun-Tam/JapaneseCensusAnalysis/raw/master/figure/demo_plotly_express.gif)
 <br>
